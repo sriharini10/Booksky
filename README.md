@@ -23,9 +23,4 @@ Booksky is a simple web application that allows users to manage books. It provid
 3. Fill out the form with the book's title, author, and description, then click "Add".
 4. To delete a book, click the "Delete" button next to the book's information.
 
-## How to Set Up Locally
 
-1. **Clone the Repository**:
-   Clone this repository to your local machine using:
-   ```bash
-   git clone https://github.com/your-username/booksky.git
